@@ -22,5 +22,3 @@ def transpose(arr):
 def rotate_2d_matrix(mat):
     reverseColumns(mat)
     transpose(mat)
-
-    return mat
